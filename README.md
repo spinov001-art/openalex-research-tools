@@ -68,6 +68,8 @@ Year  | Papers  | Growth
 
 - [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77+ data collection tools
 - [ai-market-research-reports](https://github.com/spinov001-art/ai-market-research-reports) — Market research without hallucinations
+- [crossref-research-tools](https://github.com/spinov001-art/crossref-research-tools) — Search 130M+ papers by DOI, author, topic
+- [npm-package-health-check](https://github.com/spinov001-art/npm-package-health-check) — Check npm package health
 - [pypi-package-analyzer](https://github.com/spinov001-art/pypi-package-analyzer) — Analyze Python packages via API
 - [free-apis-list](https://github.com/spinov001-art/free-apis-list) — 100+ free APIs for developers
 
