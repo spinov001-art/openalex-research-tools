@@ -66,12 +66,18 @@ Year  | Papers  | Growth
 
 ## Related Projects
 
-- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77+ data collection tools
+- [Awesome Web Scraping](https://github.com/spinov001-art/awesome-web-scraping) — 130+ scraping tools, 400+ weekly clones
 - [ai-market-research-reports](https://github.com/spinov001-art/ai-market-research-reports) — Market research without hallucinations
 - [crossref-research-tools](https://github.com/spinov001-art/crossref-research-tools) — Search 130M+ papers by DOI, author, topic
 - [npm-package-health-check](https://github.com/spinov001-art/npm-package-health-check) — Check npm package health
 - [pypi-package-analyzer](https://github.com/spinov001-art/pypi-package-analyzer) — Analyze Python packages via API
 - [free-apis-list](https://github.com/spinov001-art/free-apis-list) — 100+ free APIs for developers
+
+## Need Custom Research Tools?
+
+I build data collection and research automation tools. 79 scrapers on [Apify Store](https://apify.com/knotless_cadence) | 265+ repos on [GitHub](https://github.com/spinov001-art).
+
+**Custom research tool or data pipeline** — $100 flat rate, 48h delivery. Email **spinov001@gmail.com**
 
 ## License
 
